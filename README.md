@@ -1,6 +1,6 @@
 # Hi, I'm Hayden 👋
 
-Software engineer working on **iOS/mobile** and **AI products**.
+Software engineer working on **iOS/mobile/web** and **AI products**.
 
 ## Currently building
 
