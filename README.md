@@ -21,4 +21,4 @@ Swift · TypeScript · React Native / Expo · React / Next.js · Node.js · Rust
 
 ## Elsewhere
 
-🌐 [haydenn.dev](https://haydenn.dev) · 𝕏 [@sherloach](https://x.com/sherloach)
+🌐 [haydenn.dev](https://haydenn.dev) · 𝕏 [@haydxnqn](https://x.com/haydxnqn)
