@@ -17,7 +17,7 @@ Software engineer working on **iOS/mobile/web** and **AI products**.
 
 ## Stack
 
-Swift / SwiftUI · TypeScript · React Native / Expo · React / Next.js · Node.js · Rust · SwiftData · Supabase · SQLite / Drizzle · LLM APIs (Anthropic, OpenRouter)
+Swift / SwiftUI · TypeScript · React Native / Expo · React / Next.js · Node.js · Supabase · SQLite / Drizzle · LLM APIs (Anthropic, OpenRouter)
 
 ## Elsewhere
 
